@@ -8,7 +8,7 @@ class Sort
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		do
 	{
-		System.out.println("\n\n]n1.Bubble Sort\n2.Selection Sort\n3.Insertion Sort.\n4.Quick Sort.\n5.Merge Sort.\n6.Exit.");
+		System.out.println("\n\n\n1.Bubble Sort\n2.Selection Sort\n3.Insertion Sort.\n4.Quick Sort.\n5.Merge Sort.\n6.Exit.");
 		 ch=Integer.parseInt(br.readLine());
 		if(ch==6)
 			return;
