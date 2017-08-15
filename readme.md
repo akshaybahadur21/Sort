@@ -13,12 +13,11 @@ The example code is in Java ([version 1.8](https://java.com/en/download/) or hig
 A sorting algorithm is an algorithm made up of a series of instructions that takes an array as input, performs specified operations on the array, sometimes called a list, and outputs a sorted array.
  Efficient sorting is important for optimizing the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists; it is also often useful for canonicalizing data and for producing human-readable output. More formally, the output must satisfy two conditions:
 
-    The output is in nondecreasing order (each element is no smaller than the previous element according to the desired total order);
+    The output is in nondecreasing order.
     The output is a permutation (reordering) of the input.
 
 
 ```java
-"\n1.Bubble Sort\n2.Selection Sort\n3.Insertion Sort.\n4.Quick Sort.\n5.Merge Sort.\n6.Exit."
 
 switch(ch)
 		{
@@ -43,13 +42,16 @@ switch(ch)
 				break;
 		}
 ``` 
+
+
 You can select any algorithm from the list and then enter an array which would get sorted through the selected algorithm.
+
 
 ### Execution
 To compile the code, simply run the `javac Sort.java`.
 To run the code, type `java Sort`
 
 ```
-`javac Sort.java`
-`java Sort`
+javac Sort.java
+java Sort
 ```
