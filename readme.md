@@ -16,7 +16,7 @@ A sorting algorithm is an algorithm made up of a series of instructions that tak
     The output is in nondecreasing order.
     The output is a permutation (reordering) of the input.
 	
-	<img src="https://github.com/akshaybahadur21/Sort/blob/master/sort.gif" width="580">
+<img src="https://github.com/akshaybahadur21/Sort/blob/master/sort.gif" width="580">
 
 
 ```java
