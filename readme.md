@@ -1,10 +1,13 @@
-## Sorting Algorithms
+## Sorting Algorithms [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Sort/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 This code helps you to understand the different Sorting algorithms. The sorting algorithms depicted in this code are:
 1) Bubble Sort
 2) Selection Sort
 3) Insertion Sort
 4) Quick Sort
 5) Merge Sort
+
+### Sourcerer
+[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/7)
 
 ### Code Requirements
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work). 
