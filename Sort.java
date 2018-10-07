@@ -22,7 +22,7 @@ class Sort
 		switch(ch)
 		{
 			case 1:
-				BinarySort(a,n);
+				BubbleSort(a,n);
 				break;
 			case 2:
 				SelectionSort(a,n);
@@ -45,11 +45,13 @@ class Sort
 	}
 	while(ch!=6);
 	}
-	public static void BinarySort(int a[],int n)
+	public static void BubbleSort(int a[],int n)
 	{
 		int temp;
+		boolean swap;
 		for(int i=0;i<n-1;i++)
 		{
+			swap=false;
 			for(int j=0;j<n-1;j++)
 			{
 				if(a[j]>a[(j+1)])
@@ -57,11 +59,13 @@ class Sort
 					temp=a[j];
 					a[j]=a[(j+1)];
 					a[(j+1)]=temp;
+					swap=true;
 				}
 			//System.out.print(a[j]);
 			}
 			//System.out.println();
-			
+			if(swap==false)
+				break;
 		}
 		print(a,n);
 	}
