@@ -5,6 +5,7 @@ This code helps you to understand the different Sorting algorithms. The sorting 
 3) Insertion Sort
 4) Quick Sort
 5) Merge Sort
+6) Heap Sort
 
 ### Sourcerer
 [![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Sort/links/7)
