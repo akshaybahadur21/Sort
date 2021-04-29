@@ -24,7 +24,7 @@ A sorting algorithm is an algorithm made up of a series of instructions that tak
 switch(ch)
 		{
 			case 1:
-				BinarySort(a,n);
+				BubbleSort(a,n);
 				break;
 			case 2:
 				SelectionSort(a,n);
