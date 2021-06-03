@@ -1,4 +1,7 @@
-## Sorting Algorithms [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Sort/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+## Sorting Algorithms 〽️
+
+[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Sort/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
+
 This code helps you to understand the different Sorting algorithms. The sorting algorithms depicted in this code are:
 1) Bubble Sort
 2) Selection Sort
@@ -6,17 +9,15 @@ This code helps you to understand the different Sorting algorithms. The sorting 
 4) Quick Sort
 5) Merge Sort
 
-### Code Requirements
+## Code Requirements 🦄
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work). 
 
-### Description
+## Description ➿
 A sorting algorithm is an algorithm made up of a series of instructions that takes an array as input, performs specified operations on the array, sometimes called a list, and outputs a sorted array.
  Efficient sorting is important for optimizing the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists; it is also often useful for canonicalizing data and for producing human-readable output. More formally, the output must satisfy two conditions:
 
     The output is in nondecreasing order.
     The output is a permutation (reordering) of the input.
-	
-<img src="https://github.com/akshaybahadur21/Sort/blob/master/sort.gif">
 
 
 ```java
@@ -48,8 +49,11 @@ switch(ch)
 
 You can select any algorithm from the list and then enter an array which would get sorted through the selected algorithm.
 
+## Results 📊
+<img src="https://github.com/akshaybahadur21/Sort/blob/master/sort.gif">
 
-### Execution
+
+## Execution 🐉
 To compile the code, simply run the `javac Sort.java`.
 To run the code, type `java Sort`
 
