@@ -8,6 +8,7 @@ This code helps you to understand the different Sorting algorithms. The sorting 
 3) Insertion Sort
 4) Quick Sort
 5) Merge Sort
+6) Heap Sort
 
 ## Code Requirements 🦄
 The example code is in Java ([version 1.8](https://java.com/en/download/) or higher will work). 
